@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rohit-sanwariya
-- 👀 I’m interested in Web Development with Angular and React
-- 🌱 I’m currently learning Jenkins to understand more about devops.
+- 👀 I’m interested in Web Development with Dotnet, Angular and React
+- 🌱 I’m currently learning Kubernetes to understand more about DevOps.
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can email me at rohitsanvariya520@live.com
 
