@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rohit-sanwariya
-- 👀 I’m interested in Web Development with Dotnet, Angular and React
+- 👀 I’m interested in Web Development with Java,Python, Angular and React
 - 🌱 I’m currently learning Kubernetes to understand more about DevOps.
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can email me at rohitsanvariya520@live.com
